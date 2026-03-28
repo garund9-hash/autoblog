@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
+    <loc>https://garund9-hash.github.io/autoblog/about.html</loc>
     <lastmod>2026-03-28T18:54:30.240Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/notebooklm/index.html</loc>
+    <loc>https://garund9-hash.github.io/autoblog/posts/notebooklm/index.html</loc>
     <lastmod>2026-03-28T17:37:02.713Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
+    <loc>https://garund9-hash.github.io/autoblog/posts/featured-notebooks/index.html</loc>
+    <lastmod>2026-03-28T19:21:25.714Z</lastmod>
+  </url>
+  <url>
+    <loc>https://garund9-hash.github.io/autoblog/index.html</loc>
     <lastmod>2026-03-28T18:54:30.240Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
+    <loc>https://garund9-hash.github.io/autoblog/posts/post-with-code/index.html</loc>
     <lastmod>2026-03-28T18:54:30.240Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <loc>https://garund9-hash.github.io/autoblog/posts/welcome/index.html</loc>
     <lastmod>2026-03-28T18:54:30.240Z</lastmod>
   </url>
 </urlset>
